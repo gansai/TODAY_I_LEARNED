@@ -20,7 +20,8 @@
   6. How to insert symbols in markdown?
     1. Many a time I wanted to insert symbols in markdown text like tick symbol.
     2. Check out [DingBat](http://en.wikipedia.org/wiki/Dingbat)
-    ---------------------------------------------------------------------
+    
+      ---------------------------------------------------------------------
       ✁ 	✂ 	✃ 	✄ 	☎ 	✆ 	✇ 	✈ 	✉ 	☛ 	☞ 	✌ 	✍ 	✎ 	✏
       ✐  	✑ 	✒ 	✓ 	✔ 	✕ 	✖ 	✗ 	✘ 	✙ 	✚ 	✛ 	✜ 	✝ 	✞ 	✟
       ✠ 	✡ 	✢ 	✣ 	✤ 	✥ 	✦ 	✧ 	★ 	✩ 	✪ 	✫ 	✬ 	✭ 	✮ 	✯
